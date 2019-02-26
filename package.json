@@ -1,0 +1,19 @@
+{
+  "name": "decks_js_kanban",
+  "version": "1.0.0",
+  "description": "A Kanban workflow useing a CCG theme instead of traditional boards",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[D\u001b[C\u001b[C\u001b[D\u001b[C\u001b[D"
+  },
+  "author": "Denilsonjvv",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}

@@ -1,0 +1,14 @@
+body{
+    background: rgb(65, 65, 243);
+}
+
+.container {
+    margin: 20px auto;
+}
+header{
+    background: #1caff5;
+}
+#logo{
+    width: 45px;
+    height: 45px;
+}
